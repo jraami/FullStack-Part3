@@ -12,3 +12,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.notification_success {
+    color: green;
+    font-style: italic;
+    padding: 8px;
+}
+
+.notification_failure {
+    color: orangered;
+    font-style: italic;
+    padding: 8px;
+}
